@@ -1,0 +1,5 @@
+C:\Documents and Settings\vip\My Documents\Visual Studio 2008\Projects\UploadTest\UploadTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vip\My Documents\Visual Studio 2008\Projects\UploadTest\UploadTest\bin\UploadTest.dll
+C:\Documents and Settings\vip\My Documents\Visual Studio 2008\Projects\UploadTest\UploadTest\bin\UploadTest.pdb
+C:\Documents and Settings\vip\My Documents\Visual Studio 2008\Projects\UploadTest\UploadTest\obj\Debug\UploadTest.dll
+C:\Documents and Settings\vip\My Documents\Visual Studio 2008\Projects\UploadTest\UploadTest\obj\Debug\UploadTest.pdb

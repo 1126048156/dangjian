@@ -1,0 +1,104 @@
+body{background-color: #eeeeee; color: #000;  font-size: 14px;  font: 12px/180% Arial, Helvetica, sans-serif, Microsoft YaHei;
+     }
+*{margin: 0px; padding: 0;  list-style-type: none;}
+.top2{background-color: #003378; height: 130px;width:100%;min-width:1100px; margin:0 auto;}
+.top{background-color: #003378; height: 30px;width:1100px;min-width:1100px; margin:0 auto;position:relative;}
+.top ul{  }
+.top ul li{ float: left;line-height: 28px;text-align: center; background-color: #000099; width: 75px;border-radius:5px;border-right: solid 1px white;border-bottom: solid 1px white;}
+.top a{text-decoration: none;    display: block;    color:white;  font-family: "Microsoft YaHei";}
+.top a:hover{    color: rgba(0,0,0,0.5);    background-color: rgba(255,255,255,0.5);border-radius:5px;}
+.top ul li ul li{    float: none;    background-color: rgba(255,255,255,0.5);    margin: 2px 0px;}
+.top ul li ul{    display: none;}
+
+/*.pic ul li a{    border: 0;    text-decoration: none;}*/
+.pic ul li img{    border: 0;    text-decoration: none;}
+.pic{    width: 1100px;    height: 430px;    margin: 0px auto;}
+.pic ul li{ list-style: none;    width: 100px;    height: 430px;    float: left;}
+.pic .l4,.l1,.l2,.l3{    width: 800px;}
+.txt{TEXT-ALIGN:left;letter-spacing:0.3em;line-height:13pt;width:100px;height: 430px;filter: alpha(opacity=50); background: rgba(0,0,0,0.5);}
+.txt p{color: #fff;width:2px;height:200px; word-wrap:break-word;  font-family: Microsoft YaHei;float: left;position:relative}
+.txt .p1{ font-size: 14px;    width: 14px; height:200px;   margin: 25px 10px 0 23px;}
+.txt .p2{ font-size: 12px;    width: 12px;    margin-top: 300px;margin-left:10px}
+
+/*.style{ width: 461px;    height: 122px;}*/
+.Table{ margin: 0px auto;    font-family: "Microsoft YaHei"; width: 1100px; height: 344px;color: white;}
+.Table ul li{float: left; width: 272px;    height: 40px; font-size: 18px;text-align: center; line-height: 40px;border-radius:5px}
+.Table a{color: white;    text-decoration: none;    display: block;}
+
+.main .link a:link{
+    color:#000;
+}
+.main .link a:visited{
+    color:#000;
+}
+.main .link a:hover{
+    color:#00f;
+}
+
+.main #one,#two,#three,#four{border-radius:5px;border-left:1px solid white;border-right:1px solid white;width:548px;height:300px;}
+.main a:link { 
+color:#fff; 
+text-decoration:none; 
+} 
+.menuLeft a:visited { 
+color:#0000ff ;
+text-decoration:none; 
+} 
+.main a:hover { 
+color:#ff0000; 
+text-decoration:none; 
+} 
+
+#foot-hr{height:1px;width:100%;min-width:1100px;margin:0 auto;border:none;border-top:1px solid #262626;background-color:#262626}
+.foot1{font-size:12px;text-align:center;width:100%;min-width:1100px;height:100px;background-color:#003378 ; margin:0 auto;color:#fff;font-family:'Microsoft YaHei';}
+.middle{width:1100px;height:auto;background-color:#fff;margin:auto}
+
+.menuMiddle{width:1100px;height:auto;margin:0 auto;background-color:white;overflow:hidden}
+.menuLeft{width:250px;height:450px; float:left;}
+.menuRight{width:840px;height:auto;min-height:450px;float:left;margin-left:10px;}
+
+.pageLeft{width:250px;height:450px; float:left;margin-top:50px;margin-left:0;position:static}
+.pageRight{width:840px;height:auto;min-height:450px;float:left;margin-left:10px;}
+
+.menuLeft a:link { 
+color:#3b6cae; 
+text-decoration:none; 
+} 
+.menuLeft a:visited { 
+color:#3b6cae; 
+text-decoration:none; 
+} 
+.menuLeft a:hover { 
+color:#ff0000; 
+text-decoration:underline; 
+} 
+.menuRight #table1 a:link { 
+color:#003378; 
+text-decoration:none; 
+} 
+.menuRight #table1 a:visited { 
+color:#9a9a9a ;
+text-decoration:none; 
+} 
+.menuRight #table1 a:hover { 
+color:#ff0000; 
+text-decoration:underline; 
+} 
+
+.pageLeft  a:link { 
+color:#003378; 
+text-decoration:none; 
+} 
+.pageLeft  a:visited { 
+color:#9a9a9a ;
+text-decoration:none; 
+} 
+.pageLeft  a:hover { 
+color:#ff0000; 
+text-decoration:underline; 
+} 
+
+
+.title{ background:url(html/images/left_title.jpg) no-repeat; height:40px; line-height:40px; color:#FFF; font-size:15px; text-indent:2em;}
+ .sidebar ul.menu li{  background:url(html/images/menu_li_bg.jpg) no-repeat;;height:43px; line-height:43px; padding-left:30px; font-size:14px; color:#82846f; margin-top:10px;}
+.contact_nr{ height:174px; padding:8px 15px; line-height:2.4em; font-size:13px;}

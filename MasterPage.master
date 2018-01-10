@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="X-UA-Compatible" content="IE=11;IE=10;IE=9"/>
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+
+        <link rel="stylesheet" type="text/css" href="index/css/main.css"/>      
+        <script type="text/javascript" src="index/js/JScript.js"></script>
+         <!--手拉琴的效果-->
+		<script type="text/javascript" src="index/js/jquery.js"></script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="top2">
+            <img class="style1" src="logo1.jpg" alt="" style="margin-left:100px"/>
+          
+          <%--<img class="style1"style="margin-left:100px" src="logo2.jpg" alt="" />--%>    
+                 
+          </div>
+        <div style="width:100%;height:30px;background-color:#003378">
+        <div class="top">
+            <%=outhtml()%>
+        </div>            
+
+        </div>     
+     
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    
+
+    </form>
+</body>
+</html>
